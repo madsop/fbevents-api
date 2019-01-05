@@ -1,0 +1,7 @@
+To be combined with scrapy_facebooker.
+
+gcp.py is intended to be run on Google Cloud Platform.
+
+local.py does the same, but running locally, by using Flask directly.
+
+This code reads files from disk, and returns them as JSON.
